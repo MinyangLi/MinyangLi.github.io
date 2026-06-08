@@ -11,7 +11,7 @@ def get_personal_data():
                     I am especially interested in the theory and practice of diffusion models.
                 </p>
                 <p>
-                    <a href="MinyangLi_Resume%20(1)%20copy.pdf" target="_blank" style="margin-right: 5px"><i class="fa fa-address-card fa-lg"></i> CV</a>
+                    <a href="MinyangLi_Resume%20(2).pdf" target="_blank" style="margin-right: 5px"><i class="fa fa-address-card fa-lg"></i> CV</a>
                     <span style="margin-right: 5px"><i class="far fa-envelope-open fa-lg"></i> {email}</span>
                     <a href="https://scholar.google.com/citations?user=iahnRcgAAAAJ&hl=zh-CN" target="_blank" style="margin-right: 5px"><i class="fa-solid fa-book"></i> Scholar</a>
                 </p>
