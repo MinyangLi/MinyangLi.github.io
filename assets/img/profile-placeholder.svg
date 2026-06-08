@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="600" viewBox="0 0 480 600" role="img" aria-labelledby="title desc">
+  <title id="title">Minyang Li profile placeholder</title>
+  <desc id="desc">A simple profile placeholder with the initials ML.</desc>
+  <rect width="480" height="600" fill="#f3f6fb"/>
+  <circle cx="240" cy="205" r="95" fill="#d9e2f3"/>
+  <path d="M95 530c18-105 85-165 145-165s127 60 145 165" fill="#d9e2f3"/>
+  <text x="240" y="225" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" fill="#375a7f">ML</text>
+  <text x="240" y="565" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#375a7f">Minyang Li</text>
+</svg>
