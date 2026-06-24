@@ -7,11 +7,13 @@ def get_personal_data():
                     <a href="https://www.hkust-gz.edu.cn/" target="_blank">The Hong Kong University of Science and Technology (Guangzhou)</a>, supervised by <a href="https://www.yingcong.me/" target="_blank">Prof. Ying-Cong Chen</a>.
                     I have spent wonderful times collabrating with <a href="https://scholar.google.com/citations?user=Vm1moSIAAAAJ&hl=en" target="_blank">Zhen Yang</a> in Prof. Chen's lab.
                     I was also privileged to be supervised by <a href="https://scholar.google.com/citations?user=kSU8IiQAAAAJ&hl=en" target="_blank">Dr. Qichun Yang</a> at the begining of my research journey.
-                    My current research interests are visual generative models and their applications, including vision-language-action models and world models.
-                    I am especially interested in the theory and practice of diffusion models.
+                    My research interests center on computer vision and visual generative models, with a primary focus on
+diffusion models. I am also interested in their connections to embodied AI, including Vision-Language-
+Action (VLA) systems, diffusion models for decision making, and RL-based preference optimization for
+diffusion models and VLMs
                 </p>
                 <p>
-                    <a href="MinyangLi_Resume%20(2).pdf" target="_blank" style="margin-right: 5px"><i class="fa fa-address-card fa-lg"></i> CV</a>
+                    <a href="cv_4%20(4).pdf" target="_blank" style="margin-right: 5px"><i class="fa fa-address-card fa-lg"></i> CV</a>
                     <span style="margin-right: 5px"><i class="far fa-envelope-open fa-lg"></i> {email}</span>
                     <a href="https://scholar.google.com/citations?user=iahnRcgAAAAJ&hl=zh-CN" target="_blank" style="margin-right: 5px"><i class="fa-solid fa-book"></i> Scholar</a>
                 </p>
@@ -114,7 +116,7 @@ def get_publications_html():
     publications = [
         {
             'title': 'RectifiedHR: Enable Efficient High-Resolution Synthesis via Energy Rectification',
-            'authors': 'Zhen Yang*, Guibao Shen*, <span style="font-weight: bold;">Minyang Li*</span>, Liang Hou, Mushui Liu, Luozhou Wang, Xin Tao, Pengfei Wan, Di Zhang, and Ying-Cong Chen',
+            'authors': 'Zhen Yang*, Guibao Shen*, <span style="font-weight: bold;">Minyang Li*</span>, Liang Hou, Mushui Liu, Luozhou Wang, Xin Tao, and Ying-Cong Chen',
             'venue': 'CVPR Findings',
             'year': '2026',
             'img': 'assets/img/publications/Screenshot 2026-06-08 at 11.38.04.png',
@@ -122,7 +124,7 @@ def get_publications_html():
         },
         {
             'title': 'Future Climate Change Increases Streamflow and Risks of Hydrological Hazards in the Pearl River Basin',
-            'authors': 'H. Yu, Qichun Yang, L. Yu, X. Li, <span style="font-weight: bold;">Minyang Li</span>, and Y. Yang',
+            'authors': 'Haoyuan Yu, Qichun Yang, Liuqian Yu, Xia Li, <span style="font-weight: bold;">Minyang Li</span>, and Yingxian Yang',
             'venue': 'Water',
             'year': '2026',
             'img': 'assets/img/publications/Screenshot 2026-06-08 at 11.38.22.png',
