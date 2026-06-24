@@ -170,35 +170,36 @@ def get_education_html():
 def get_research_html():
     return """
         <div style="margin-bottom: 2em;">
-            <span style="font-weight: bold;">AI Researcher / Algorithm Intern, Knowin AI</span>
-            <span style="float: right;">Mar. 2026 - Sep. 2026</span><br>
-            Developed vision-language-action models for robotic pick-and-place tasks, including VQ-VAE tokenizer training, fine-tuning on customized robotic manipulation data, loss-function improvements, and real-world deployment support.
+            <span style="font-weight: bold;">AI Researcher (Algorithm Intern)</span>
+            <span style="float: right;">Mar. 2026 - Present</span><br>
+            Mentor: <a href="https://ieeexplore.ieee.org/author/37086305237" target="_blank">Dr. Tianyi Zhang</a><br>
+            <a href="https://knowinai.com/" target="_blank">Knowin AI</a>, Nanshan, Shenzhen, China
         </div>
     """
 
 def get_projects_html():
     return """
         <div style="margin-bottom: 2em;">
-            <span style="font-weight: bold;">Multi-object Image Editing</span>
-            <br>
-            Developed VGFE, an inversion-free flow-based image editing framework that uses VQA-guided editing strength search to automatically select optimal edit strength while reducing computational overhead.
+            <span style="font-weight: bold;">Multi-Object Image Editing</span><br>
+            <span style="font-style: italic;">Independent, Course Project in Deep Learning</span><br>
+            Proposed VGFE, an inversion-free flow-based image editing framework that uses VQA-guided editing strength search to automatically select optimal edit strength while reducing computational overhead.
             Extended the method to multi-object editing by designing a reassembly and re-editing pipeline tailored for inversion-free diffusion/flow models.
             (<a href="https://drive.google.com/file/d/1i1UlNpWH-OpHx7uIAk3uxUgMi0ek5Ehb/view?usp=sharing" target="_blank">Report</a>)
         </div>
         <div style="margin-bottom: 2em;">
-            <span style="font-weight: bold;">Skeleton-adhered Style Transfer for Chinese Characters</span>
-            <br>
+            <span style="font-weight: bold;">Skeleton-Adhered Style Transfer for Chinese Characters</span><br>
+            <span style="font-style: italic;">Collaborator: Jian Yang, Course Project in CompTec for Sketch-based Creativity</span><br>
             Developed CalliGen, a sketch-based Chinese calligraphy generation system that transforms rough handwritten skeletons into stylized calligraphic characters while preserving users' structural intent.
-            Built a large-scale paired dataset of Chinese characters and skeletons.
-            Designed an interactive prototype supporting sketch editing, style selection, and real-time generation.
+            Designed an efficient pipeline to construct a large-scale paired dataset of Chinese character images and skeletons for training.
+            Co-designed an interactive prototype supporting sketch editing, style selection, and real-time generation.
             (<a href="https://drive.google.com/file/d/18R5_xT_vy4KYV7v_KD1ehNGC0PfeRrCm/view?usp=sharing" target="_blank">Report</a>)
             (<a href="https://github.com/MinyangLi/CalliGen" target="_blank">Code</a>)
             (<a href="https://drive.google.com/file/d/1iQRfb1LKmFFCS4X1nILYP2oTv_eOPs8E/view?usp=sharing" target="_blank">Demo video</a>)
         </div>
         <div style="margin-bottom: 2em;">
-            <span style="font-weight: bold;">Fact-Aware Consistency Scoring for Model-Generated Answers</span>
-            <br>
-            To address the limitations of global embedding similarity in detecting entity, date, number, and span-level errors, proposed FS-BGE, a BGE-M3 ColBERT-based similarity score with factual token reweighting and answer-span mismatch penalties, and further explored bidirectional NLI-based entailment scoring.
+            <span style="font-weight: bold;">Fact-Aware Consistency Scoring for Model-Generated Answers</span><br>
+            <span style="font-style: italic;">Collaborator: <a href="https://cozy000000.github.io/" target="_blank">Zhiyi Chen</a>, Zhiling Li, Course Project in Intro2NLP</span><br>
+            To address the limitations of global embedding similarity in detecting entity, date, number, and span-level errors, we proposed FS-BGE, a BGE-M3 ColBERT-based similarity score with factual token reweighting and answer-span mismatch penalties, and I further explored bidirectional NLI-based entailment scoring and scoring in hyperbolic space.
             (<a href="https://drive.google.com/file/d/1FaRJxWKnEG81mTCiP8CgtOgxh89Ikwip/view?usp=sharing" target="_blank">Report</a>)
             (<a href="https://github.com/MinyangLi/nlp_project" target="_blank">Code</a>)
         </div>
