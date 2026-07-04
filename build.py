@@ -7,9 +7,7 @@ def get_personal_data():
                     <a href="https://www.hkust-gz.edu.cn/" target="_blank">The Hong Kong University of Science and Technology (Guangzhou)</a>, supervised by <a href="https://www.yingcong.me/" target="_blank">Prof. Ying-Cong Chen</a>.
                     I have spent wonderful times collabrating with <a href="https://scholar.google.com/citations?user=Vm1moSIAAAAJ&hl=en" target="_blank">Zhen Yang</a> in Prof. Chen's lab.
                     I was also privileged to be supervised by <a href="https://scholar.google.com/citations?user=kSU8IiQAAAAJ&hl=en" target="_blank">Dr. Qichun Yang</a> at the begining of my research journey.
-                    My research interests center on computer vision and visual generative models, with a primary focus on
-diffusion models. I am also interested in their connections to embodied AI, including Vision-Language-Action (VLA) systems, diffusion models for decision making, and RL-based preference optimization for
-diffusion models and VLMs
+                    My research interests focus on how reward or preference signals, test-time feedback, and trajectory-level guidance can be used to improve the controllability, reliability, and alignment of diffusion-based generative models.
                 </p>
                 <p>
                     <a href="MinyangLi_CV.pdf" target="_blank" style="margin-right: 5px"><i class="fa fa-address-card fa-lg"></i> CV</a>
